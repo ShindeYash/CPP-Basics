@@ -1,0 +1,7 @@
+### Tips from series Zero-to-Hero ###
+
+(1) Instead of using "#include<iostream>", "#include<math>", "#include<string>"
+    you can directly use only single module named "#inlcude<bits/stdc++.h>".
+    It will add the all the modules without having to include them individually.
+    Only con of using it is that it will increase the compilation time.
+    It will not affect the program execution in any way.
